@@ -1,6 +1,6 @@
 <include Stdio.h>
 
 int main(void) {
-	int a,b;
+	int a=1,b=2;
 	printf("%d", a+b);
 }
